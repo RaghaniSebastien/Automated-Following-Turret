@@ -34,7 +34,7 @@ I designed and built an Automated Following Turret with a webcam, 2 servos and a
    
 <div align="center">
          <a href="https://youtu.be/cKOUHmLC5uo">
-                  <img src="https://user-images.githubusercontent.com/73033350/127235500-8df2722b-d440-498e-af96-26ea6a2c8018.gif" width="320" height="569" ;/>
+                  <img src="turret following object.gif" width="320" height="569" ;/>
          </a>
 </div>
 
