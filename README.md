@@ -41,12 +41,8 @@ I designed and built an Automated Following Turret with a webcam, 2 servos and a
 
 
 
-<div align="left">
-         
-</div>
 
-
-* Click to see a demonstration of it on youtube :
+* Click to see 2 demonstrations of the Automated-Following-Turret on youtube :
 
      --> https://youtu.be/cKOUHmLC5uo
 
@@ -54,6 +50,7 @@ I designed and built an Automated Following Turret with a webcam, 2 servos and a
 
 
 <br>
+
 
 * Click on the link bellow for the details of the project.
 
