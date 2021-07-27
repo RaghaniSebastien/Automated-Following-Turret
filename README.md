@@ -47,9 +47,9 @@ I designed and built an Automated Following Turret with a webcam, 2 servos and a
 
 * Click to see 2 demonstrations of the Automated-Following-Turret on youtube :
 
-     --> Complete youtube video - Automated-Following-Turret | Following an apple : https://youtu.be/bP1dEgp_Bvk
+ --> Complete youtube video - Automated-Following-Turret | Following an apple : https://youtu.be/bP1dEgp_Bvk
      
-     --> Complete youtube video - Automated-Following-Turret | Following an object : https://youtu.be/cKOUHmLC5uo
+ --> Complete youtube video - Automated-Following-Turret | Following an object : https://youtu.be/cKOUHmLC5uo
 
 
 
