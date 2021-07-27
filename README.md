@@ -1,4 +1,4 @@
-# Automated-Following-Turret
+# Automated-Following-Turret 👀🧠⚡
 
 I designed and built an Automated Following Turret with a webcam, 2 servos and a Raspberry-pi as a brain.
 
