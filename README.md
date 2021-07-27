@@ -5,8 +5,8 @@ I designed and built an Automated Following Turret with a webcam, 2 servos and a
 
 <div align="left">
          <a href="https://youtu.be/bP1dEgp_Bvk">
-                  <img src="https://user-images.githubusercontent.com/73033350/127236647-0db7c7d9-d5ea-4736-81f4-db4a1b840198.png" width="312" height="284";/>
-                  <img src="turret following apple.gif" width="160" height="284" ;/>
+                  <img src="https://user-images.githubusercontent.com/73033350/127236647-0db7c7d9-d5ea-4736-81f4-db4a1b840198.png" width="468" height="426";/>
+                  <img src="turret following apple.gif" width="240" height="426" ;/>
          </a>
 </div>
 
